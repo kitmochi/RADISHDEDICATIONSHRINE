@@ -23,8 +23,7 @@ body {background:#FAFAD2;}
 <h3> <b>                               BECOME ONE WITH THE FOLLOWERS OF RADISH. <span style="font-size: 34px">SHIMMIE YOUR WAY WITH THEM</span> AND INTO THE BRIGHTNESS OF THE OBLIVION. </h3>
 <p>                                                                                                                                          you can't fight the radish, ALLOW YOURSELF TO ADMIRE RADISH </p>
 <p>                                                                                      MUHAHAHAHAHAHAHAHAHA </p> 
-<a href="https://ibb.co/8BgdMpn"><img src="https://i.ibb.co/3smM1q5/20230324-151811.jpg" alt="20230324-151811" border="0"></a>
-<a href="https://ibb.co/7kNgyL1"><img src="https://i.ibb.co/vXvszRj/20230818-154908.jpg" alt="20230818-154908" border="0"></a>
+<img src="20230818_154908.jpg" alt="20230818-154908" border="0">
 <img src="PSX_20230928_044442.jpg" alt="PSX-20230928-044442" border="0">
 <img src="PSX_20230928_044930.jpg" alt="PSX-20230928-044930" border="0">
 
