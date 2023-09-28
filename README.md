@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <titles> <span style="font-size: 36px">                                                                      DEDICATION TO RADISH </title?>
+  <titles> <span style="font-size: 36px">                                                                      DEDICATION TO RADISH>
 
 <img src="sliced-white-daikon-radishes-marble.jpg">
+
 <style>
-titles {color:#006400;}
+  
 <img src="https://i.ibb.co/DQP0cCS/s-l500.png" alt="s-l500" border="0"></a>
 <head/>
 <body>
@@ -22,6 +23,10 @@ body {background:#FAFAD2;}
 <h3> <b>                               BECOME ONE WITH THE FOLLOWERS OF RADISH. <span style="font-size: 34px">SHIMMIE YOUR WAY WITH THEM</span> AND INTO THE BRIGHTNESS OF THE OBLIVION. </h3>
 <p>                                                                                                                                          you can't fight the radish, ALLOW YOURSELF TO ADMIRE RADISH </p>
 <p>                                                                                      MUHAHAHAHAHAHAHAHAHA </p> 
+<a href="https://ibb.co/8BgdMpn"><img src="https://i.ibb.co/3smM1q5/20230324-151811.jpg" alt="20230324-151811" border="0"></a>
+<a href="https://ibb.co/7kNgyL1"><img src="https://i.ibb.co/vXvszRj/20230818-154908.jpg" alt="20230818-154908" border="0"></a>
+<a href="https://ibb.co/NNVY0tY"><img src="https://i.ibb.co/ZgLTQGT/PSX-20230928-044442.jpg" alt="PSX-20230928-044442" border="0"></a>
+<a href="https://ibb.co/GMz3BqF"><img src="https://i.ibb.co/kDN6ktM/PSX-20230928-044930.jpg" alt="PSX-20230928-044930" border="0"></a>
 
 
 <p>///////////////////////////////////////////RRRRRRR////////////////////////////////////////////////////////////// </p> 
@@ -42,5 +47,11 @@ body {background:#FAFAD2;}
 <p>////////////////////////////////////////RR////////RR////////////////////////////////////////////////////////// </p> 
 <p>//////////////////////////////////////////R//////R//////////////////////////////////////////////////////////// </p> 
 <p>////////////////////////////////////////////RRRR////////////////////////////////////////////////////////////// </p> 
+
+<a href="https://ibb.co/dDV3wVT"><img src="https://i.ibb.co/NKJkdJv/IMG-9483.jpg" alt="IMG-9483" border="0"></a>
+<a href="https://ibb.co/xFkFBC6"><img src="https://i.ibb.co/DrJrvVQ/IMG-9485.jpg" alt="IMG-9485" border="0"></a>
+<a href="https://ibb.co/D5w1fFv"><img src="https://i.ibb.co/4P4FRLX/IMG-9557.jpg" alt="IMG-9557" border="0"></a>
+
 </body>
+
 </html>
