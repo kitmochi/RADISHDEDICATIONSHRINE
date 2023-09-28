@@ -48,7 +48,7 @@ body {background:#FAFAD2;}
 <p>////////////////////////////////////////////RRRR////////////////////////////////////////////////////////////// </p> 
 
 <a href="https://ibb.co/dDV3wVT"><img src="https://i.ibb.co/NKJkdJv/IMG-9483.jpg" alt="IMG-9483" border="0"></a>
-<a href="https://ibb.co/xFkFBC6"><img src="https://i.ibb.co/DrJrvVQ/IMG-9485.jpg" alt="IMG-9485" border="0"></a>
+<img src="IMG_9485.jpg" alt="IMG-9485" border="0">
 <img src="IMG_9557.jpg" alt="IMG-9557" border="0">
 
 </body>
